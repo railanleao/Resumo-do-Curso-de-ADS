@@ -4,3 +4,4 @@ Por definição, a falácia se refere a qualquer ideia equivocada ou falsa cren�
 Como, por exemplo, na frase “nenhum homem presta”. 
 Ora, por mais que muitas pessoas tenham tido experiências negativas com pessoas do sexo masculino, 
 esse argumento não pode ser utilizado para generalizar ou afirmar que todos os homens sempre se comportarão da mesma forma.  |
+| -------- |
