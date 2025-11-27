@@ -75,26 +75,26 @@ O fluxo de trabalho básico Git é algo assim:
 Se uma versão específica de um arquivo está no diretório Git, é considerado commited. Se for modificado, mas foi adicionado à área de preparo, é considerado preparado. E se ele for alterado depois de ter sido carregado, mas não foi preparado, ele é considerado modificado. 
 A partir deste parágrafo, você encontrará indicações sobre os tópicos mais relevantes sobre Git, no contexto do nosso MF. Essas indicações referem-se a capítulos de uma das principais referências sobre Git, o livro Pro Git (2014). 
 
-Fundamentos de GitLinks to an external site.;
-Branches no Git;Links to an external site.
-Distributed Git;Links to an external site.
-GitHub.Links to an external site.
+[Fundamentos de Git](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Obtendo-um-Reposit%C3%B3rio-Git)
+[Branches no Git](https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras)
+[Distributed Git](https://git-scm.com/book/pt-br/v2/Distributed-Git-Fluxos-de-Trabalho-Distribu%C3%ADdos)
+[GitHub](https://git-scm.com/book/pt-br/v2/GitHub-Configurando-uma-conta)
  
 
-Conforme foi apresentado no capítulo Distributed GitLinks to an external site.do livro Pro Git, o Gitflow é um fluxo de trabalho legado do Git que no começo era uma estratégia inovadora e revolucionária para gerenciar ramificações do Git. Entretanto, o Gitflow perdeu popularidade para fluxos de trabalho baseados em “troncos”, que hoje são considerados práticas recomendadas para o desenvolvimento moderno e contínuo de softwares e práticas de DevOps. O Gitflow também pode ser difícil de usar com integração/implementação contínuas. 
+Conforme foi apresentado no capítulo Distributed Git .do livro Pro Git, o Gitflow é um fluxo de trabalho legado do Git que no começo era uma estratégia inovadora e revolucionária para gerenciar ramificações do Git. Entretanto, o Gitflow perdeu popularidade para fluxos de trabalho baseados em “troncos”, que hoje são considerados práticas recomendadas para o desenvolvimento moderno e contínuo de softwares e práticas de DevOps. O Gitflow também pode ser difícil de usar com integração/implementação contínuas. 
 
-O desenvolvimento baseado em “tronco” é uma prática de gerenciamento de controle de versão na qual os desenvolvedores fazem o merge de atualizações pequenas e frequentes em um “tronco” ou ramificação principais. Portanto, recomendo fortemente a leitura dos artigos Desenvolvimento baseado em troncoLinks to an external site., Trunk Based Development (Medium)Links to an external site. e Trunk Based Development (TrunkBasedDevelopment).Links to an external site.
+O desenvolvimento baseado em “tronco” é uma prática de gerenciamento de controle de versão na qual os desenvolvedores fazem o merge de atualizações pequenas e frequentes em um “tronco” ou ramificação principais. Portanto, recomendo fortemente a leitura dos artigos [Desenvolvimento baseado em tronco](https://www.atlassian.com/br/continuous-delivery/continuous-integration/trunk-based-development), [Trunk Based Development (Medium)](https://medium.com/@mateusdecampos/trunk-based-development-1770f5e0dfc1) e [Trunk Based Development (TrunkBasedDevelopment)](https://trunkbaseddevelopment.com/).
 
-Outra referência que certamente contribuirá muito com a sua formação está relacionada aos benefícios oferecidos pelo programa GitHub Education.Links to an external site. Este programa oferece aos alunos acesso gratuito a várias ferramentas de desenvolvedor através de parceiros do GitHub. 
+Outra referência que certamente contribuirá muito com a sua formação está relacionada aos benefícios oferecidos pelo programa [GitHub Education](https://github.com/education?locale=pt-BR). Este programa oferece aos alunos acesso gratuito a várias ferramentas de desenvolvedor através de parceiros do GitHub. 
 
 Como estudante, você também pode se inscrever para ter acesso aos benefícios do GitHub Student, que incluem acesso ao GitHub Global Campus, um campus digital para que nossa comunidade estudantil do GitHub aproveite alguns dos melhores programas que o GitHub Education tem a oferecer. O GitHub Global Campus inclui o GitHub Student Developer Pack, que oferece acesso gratuito a ferramentas e serviços usados por desenvolvedores profissionais, bem como acesso ao conteúdo da Campus TV, eventos estudantis, GitHub Classroom Assignments e muito mais, para ajudar os alunos em sua carreira técnica. Para obter mais informações, consulte "Inscrever-se para um pacote de desenvolvedor de estudante" e GitHub Education . 
 
-Você também poderá se tornar um Especialista de Campus GitHubLinks to an external site., um título concedido pelo programa GitHub Campus Experts. Este é um programa de treinamento voluntário oferecido gratuitamente a alunos, professores e membros do corpo docente vinculados a instituições de ensino parceiras do Github. 
+Você também poderá se tornar um Especialista de Campus [GitHub](https://github.com/education/students?locale=pt-BR), um título concedido pelo programa GitHub Campus Experts. Este é um programa de treinamento voluntário oferecido gratuitamente a alunos, professores e membros do corpo docente vinculados a instituições de ensino parceiras do Github. 
 
 Como aluno do programa, além do conhecimento técnico sobre GitHub, você adquirirá as habilidades necessárias para contribuir com a comunidade tecnológica da PUC Minas e terá acesso a um portfólio global com treinamentos promovidos pelo programa. Aproveite, desenvolva e aperfeiçoe suas habilidades de falar em público, escrita técnica, liderança de comunidade e desenvolvimento de software como um Especialista de campus do GitHub. 
 
-O site do GitHubLinks to an external site. também oferece uma vasta documentação sobre recursos oferecidos pelo GitHub, explorada como suporte por toda a comunidade que faz uso da ferramenta, que pode e deve ser explorada por você.  
+O site do [GitHub](https://docs.github.com/en/get-started) também oferece uma vasta documentação sobre recursos oferecidos pelo GitHub, explorada como suporte por toda a comunidade que faz uso da ferramenta, que pode e deve ser explorada por você.  
 
 Outro conteúdo indicado é o curso The Basics of GitHub,Links to an external site. contendo conceitos básicos sobre o GitHub e materiais adicionais para aprendizado na plataforma. 
 
-GitHub Docs, GitHub Docs,  
+[GitHub Docs](https://docs.github.com/en/get-started)
